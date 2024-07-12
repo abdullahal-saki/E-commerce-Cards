@@ -1,0 +1,52 @@
+.Mobile{
+    width:350px ;
+    padding: 20px ;
+    margin: 10px auto;
+    border:1px solid #888 ;
+    display: inline-block;
+
+}
+.Parent{
+    margin: auto;
+    width: fit-content;
+}
+
+}
+span{
+    font-size: medium;
+
+}
+.price {
+    font-weight: 800;
+
+}
+.price :hover{
+    font-weight: 800;
+}
+a{
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+width: 150px;;
+display:block;
+line-height:  100px; ;
+font-family:Arial;
+text-align: center ;
+height: 100px;
+border-radius: 50px 50px 50px 50px;
+transition: 0.2ms ease;
+}
+a:hover{
+    background-color: white;
+    color: orange;
+    font-weight: bolder;
+    border-radius: 50%;
+    border: orange;
+}
+
+h4{
+    text-decoration: underline;
+}
+h4 :hover{
+    text-decoration: none;
+}
